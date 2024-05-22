@@ -5,6 +5,7 @@
   "description": "Fetches the title of the current tab",
   "permissions": ["activeTab"],
   "action": {
-    "default_popup": "./my-chrome-extension/popup.html"
+    "default_popup": "./my-chrome-extension/popup.html",
+    "default_icon": "t-image.jpeg"
   }
 }
